@@ -28,14 +28,14 @@ function App() {
   return (
     <>
     <Box size="small" style={{backgroundColor: 'lightblue'}}>
-  small lightblue box
-</Box>
-<Box size="medium" style={{backgroundColor: 'orange'}}>
-  medium orange box
-</Box>
-<Box size="large" style={{backgroundColor: 'lightgreen'}}>
-  Large green box
-</Box>
+      small lightblue box
+    </Box>
+    <Box size="medium" style={{backgroundColor: 'orange'}}>
+      medium orange box
+    </Box>
+    <Box size="large" style={{backgroundColor: 'lightgreen'}}>
+      Large green box
+    </Box>
 </>
   )
 }
